@@ -9,4 +9,4 @@ Tecnologias:
 
 Para acessar a documentação da PokeApi [clique aqui](https://pokeapi.co/).
 
-Deploy da aplicação: [Pokédex]()
+Deploy da aplicação: [Pokédex](https://pokedex-tau-swart.vercel.app/)
